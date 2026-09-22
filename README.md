@@ -3,6 +3,8 @@
 대학 「단지계획(Site Planning)」 과목 1~3주차 시험 대비용 정적 학습 사이트입니다.
 설치·빌드 없이 `index.html` 하나로 동작하며, GitHub Pages로 배포됩니다.
 
+**바로 열기: https://sngb05.github.io/danji-plan-study/**
+
 ## 기능
 
 | 탭 | 내용 |
