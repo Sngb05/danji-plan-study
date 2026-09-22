@@ -1,0 +1,9 @@
+# 원본 강의자료(저작권, 배포 금지)
+*.pdf
+*.hwp
+*.hwpx
+# OS
+Thumbs.db
+.DS_Store
+# 로컬 도구 설정
+.claude/
